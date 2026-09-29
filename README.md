@@ -1,4 +1,4 @@
-**This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
+**This theme is intended for Turborama and contains graphics for its supported systems.**
 
 ## THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
 
@@ -65,7 +65,7 @@ Video on Detail View: Game video's can now be turned off completely on detailed 
 ## |.......I M P O R T A N T.......|
 
 * This theme is NOT TO BE USED COMMERCIALLY!!!!!!!
-* Compatability is designed for Emuelec. Only systems supported by Emuelec are being themed
+* Compatibility is designed for Turborama. Only supported systems are being themed.
 
 
 * See licence file for sources, credits and licence

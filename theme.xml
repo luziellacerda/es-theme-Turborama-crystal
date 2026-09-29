@@ -90,7 +90,7 @@ github:			https://github.com/dm2912
          <iconAutoShutdown>./assets/menu_icons/${cmenuicons}/AutoShutdown.png</iconAutoShutdown>
          <iconFastShutdown>./assets/menu_icons/${cmenuicons}/Fastshutdown.png</iconFastShutdown>
          <iconRetroachievements>./assets/menu_icons/${cmenuicons}/Contest.png</iconRetroachievements>
-         <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
+         <iconTurborama>./assets/menu_icons/${cmenuicons}/Turborama.png</iconTurborama>
       </menuIcons>
       <helpsystem name="help">
          <fontPath>./fonts/${font3s}</fontPath>
